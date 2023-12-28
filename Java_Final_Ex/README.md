@@ -1,0 +1,38 @@
+#### Использованные команды Ubuntu:
+- cat > Pets.txt
+- cat Pets.txt
+- cat > Packanimals.txt
+- cat Packanimals.txt
+- cat Pets.txt Packanimals.txt > HumanFriends.txt
+- cat HumanFriends.txt
+- ls
+- mkdir HumanFriends
+- cd HumanFriends
+- cd ..
+- ll
+- cd HumanFriends
+- mv /home/egor/Java_Final_Ex/HumanFriends.txt /home/egor/Java_Final_Ex/HumanFriends
+- ll
+- sudo dpkg -i mysql-apt-config_0.8.24-1_all.deb
+- cp resolv.conf resolv_old.conf
+- ll
+- vim resolv.conf
+- systemstl status system-resolved.service
+- systemstl status systemd-resolved.service
+- ufw allow 53/tcp
+- ufw allow 43/tcp
+- vim resolv.conf
+- systemstl status system-resolved.service
+- systemstl status systemd-resolved.service
+- vim resolv.conf
+- systemstl status system-resolved.service
+- systemstl status systemd-resolved.service
+- vim resolv.conf
+- ip a s
+- wget https://dev.com/get/mysql-apt-config_0.8.24-1_all.deb
+- dpkg -i mysql-apt-config_0.8.24-1_all.deb
+- apt-get insrall mysql-server
+- wget https://github.com/sharkdp/bat/releases/download/v0.8.0/bat_0.8.0_amd64.deb
+- dpkg -i ./bat_0.8.0_amd64.deb
+- dpkg -r bat
+- history
